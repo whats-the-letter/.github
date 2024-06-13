@@ -10,17 +10,21 @@
 
 ---
 
-위 프로젝트는 디자이너 1명, 프론트엔드 1명, 백엔드 1명, 3인이 진행한 프로젝트로 2024 1월 ~ 5월까지 진행한 프로젝트입니다.
+위 프로젝트는 디자이너 1명, 프론트엔드 1명, 백엔드 1명, 총 3인이 2024 1월 ~ 5월까지 진행한 프로젝트입니다.
 <br/>
 
 
-# 프로젝트 개요
+## 프로젝트 개요
 
-- What's the Letter? 는 모바일 반응형 최적화 웹 서비스이며, 링크 공유를 통해 편지와 음악을 공유할 수 있는 서비스입니다.
-- 카카오 소셜 로그인으로 회원가입을 진행할 수 있으며, 링크복사와 카카오톡 메시지 공유하기로 편지를 전달할 수 있습니다.
+- What's the Letter? 는 모바일 반응형 최적화 웹 서비스로, 음악을 고르고 편지를 작성하여 나만의 앨범을 만든 후 공유할 수 있습니다.
+- 카카오 소셜 로그인으로 회원가입을 진행할 수 있으며, 링크 복사와 카카오톡 메시지 공유하기로 앨범을 전달할 수 있습니다.
 **나만의 앨범을 만들고 소중한 사람과 공유해보세요!**
 
-# 주요 기능
+## 주요 기능
+
+### 1. 메인 페이지
+
+
 
 </br>
 
@@ -73,17 +77,21 @@
 <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	타입스크립트
+	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 	 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
 	 <img src="https://img.shields.io/badge/Next-000000.svg?style=flat&logo=Next.js&logoColor=white">
-  zustand
-  react-query
-  framer-motion
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/>
     <br/>
     <img src="https://img.shields.io/badge/Java-47A248?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
-
+    <br/>
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
 <br/>
 
 </div>
@@ -95,6 +103,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-2C2255?style=flat&logo=intellijidea&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 
 </div>
 
